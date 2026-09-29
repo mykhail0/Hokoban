@@ -2,6 +2,9 @@
 
 Sokoban game to be played in the terminal written in Haskell
 
+This was the final assignment for programming in Haskell class at the University
+of Warsaw.
+
 The levels conform to this
 [format](http://www.sokobano.de/wiki/index.php?title=Level_format)
 
