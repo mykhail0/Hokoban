@@ -13,3 +13,7 @@ starting position is with `ESC` key, if you want to go to the next level, press
 `n`. Starting the first level from the home screen is done with pressing Space.
 
 Build the project with `cabal run`.
+
+## Demo
+
+![demo](assets/demo.gif)
